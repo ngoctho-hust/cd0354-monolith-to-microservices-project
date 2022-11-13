@@ -15,7 +15,7 @@ spec:
         service: backend-user
     spec:
       containers:
-        - image: thonn/udagram-api-user:v2
+        - image: thonn/udagram-api-user:v1
           name: backend-user
           imagePullPolicy: Always
           env:

@@ -80,7 +80,7 @@ Follow the instructions for [Docker Desktop](https://docs.docker.com/desktop/#do
 We use AWS CLI to interface programmatically with AWS.
 
 ### Instructions
-Follow [these instructions](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) to set up AWS CLI.
+Follow [these instructions](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv1.html) to set up AWS CLI.
 
 After it's installed, you will need to configure an AWS access profile locally so that our local environment knows how to access your AWS account:
 1. Create an IAM user with admin privileges on the AWS web console. Copy its Access Key.

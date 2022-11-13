@@ -15,7 +15,7 @@ spec:
         service: reverseproxy
     spec:
       containers:
-        - image: thonn/reverseproxy:v2
+        - image: thonn/reverseproxy:v1
           name: reverseproxy
           imagePullPolicy: Always
           resources:
